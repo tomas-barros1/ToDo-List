@@ -11,7 +11,7 @@ addBtn.addEventListener("click", function() {
 
     buttonRemove.classList.add("removeBtn")
     divTask.classList.add("divTask")
-    buttonRemove.innerHTML = "REMOVER"
+    buttonRemove.innerHTML = "REMOVE"
 
     task.innerHTML = text
   
